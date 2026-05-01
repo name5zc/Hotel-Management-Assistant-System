@@ -7,7 +7,7 @@ from typing import Any, Dict, List, Optional
 from .store import HotelStore
 from .tools import TOOL_SPECS, run_tool
 
-DEFAULT_ARK_MODEL = "ep-20260428103409-pcrnx"
+DEFAULT_ARK_MODEL = ""
 
 
 def _openai_tools() -> List[Dict[str, Any]]:
