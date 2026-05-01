@@ -1,0 +1,30 @@
+[
+  {
+    "id": "room_1",
+    "number": "101",
+    "floor": 1,
+    "room_type": "standard",
+    "status": "vacant"
+  },
+  {
+    "id": "room_2",
+    "number": "102",
+    "floor": 1,
+    "room_type": "standard",
+    "status": "vacant"
+  },
+  {
+    "id": "room_3",
+    "number": "201",
+    "floor": 2,
+    "room_type": "deluxe",
+    "status": "vacant"
+  },
+  {
+    "id": "room_4",
+    "number": "202",
+    "floor": 2,
+    "room_type": "suite",
+    "status": "vacant"
+  }
+]

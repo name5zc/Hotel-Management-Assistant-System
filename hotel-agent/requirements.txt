@@ -1,0 +1,2 @@
+# Core: stdlib only. For OpenAI tool-calling:
+# pip install -e ".[llm]"

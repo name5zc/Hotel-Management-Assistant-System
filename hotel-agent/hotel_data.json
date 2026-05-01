@@ -1,0 +1,51 @@
+{
+  "rooms": [
+    {
+      "id": "room_1",
+      "number": "101",
+      "floor": 1,
+      "room_type": "standard",
+      "status": "occupied"
+    },
+    {
+      "id": "room_2",
+      "number": "102",
+      "floor": 1,
+      "room_type": "standard",
+      "status": "vacant"
+    },
+    {
+      "id": "room_3",
+      "number": "201",
+      "floor": 2,
+      "room_type": "deluxe",
+      "status": "vacant"
+    },
+    {
+      "id": "room_4",
+      "number": "202",
+      "floor": 2,
+      "room_type": "suite",
+      "status": "vacant"
+    }
+  ],
+  "guests": [
+    {
+      "id": "guest_e3621bad24",
+      "name": "Demo Guest",
+      "email": "demo@example.com",
+      "phone": null
+    }
+  ],
+  "bookings": [
+    {
+      "id": "book_e9c655e13b",
+      "room_id": "room_1",
+      "guest_id": "guest_e3621bad24",
+      "check_in": "2026-04-28",
+      "check_out": "2026-04-30",
+      "status": "confirmed"
+    }
+  ],
+  "tasks": []
+}

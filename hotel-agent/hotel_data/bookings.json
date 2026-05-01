@@ -1,0 +1,10 @@
+[
+  {
+    "id": "book_5bca84362b",
+    "room_id": "room_1",
+    "guest_id": "guest_f4778abb48",
+    "check_in": "2026-04-28",
+    "check_out": "2026-04-30",
+    "status": "confirmed"
+  }
+]

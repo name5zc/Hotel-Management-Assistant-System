@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/hotel_agent/__init__.py
+src/hotel_agent/__main__.py
+src/hotel_agent/agent.py
+src/hotel_agent/cli.py
+src/hotel_agent/models.py
+src/hotel_agent/store.py
+src/hotel_agent/tools.py
+src/hotel_agent/web.py
+src/hotel_agent.egg-info/PKG-INFO
+src/hotel_agent.egg-info/SOURCES.txt
+src/hotel_agent.egg-info/dependency_links.txt
+src/hotel_agent.egg-info/entry_points.txt
+src/hotel_agent.egg-info/requires.txt
+src/hotel_agent.egg-info/top_level.txt
+src/hotel_agent/static/index.html
